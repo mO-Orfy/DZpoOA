@@ -1,0 +1,14 @@
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.AssemblyInfoInputs.cache
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.AssemblyInfo.cs
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\bin\Debug\net6.0\DZpoOA.exe
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\bin\Debug\net6.0\DZpoOA.deps.json
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\bin\Debug\net6.0\DZpoOA.runtimeconfig.json
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\bin\Debug\net6.0\DZpoOA.dll
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\bin\Debug\net6.0\DZpoOA.pdb
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.dll
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\refint\DZpoOA.dll
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.pdb
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\DZpoOA.genruntimeconfig.cache
+C:\Users\Aleks\OneDrive\Рабочий стол\c#\DZ\DZ\obj\Debug\net6.0\ref\DZpoOA.dll
